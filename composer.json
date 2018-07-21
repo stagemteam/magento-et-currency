@@ -1,0 +1,25 @@
+{
+  "name": "stagem/magento-et-currency",
+  "type": "magento-module",
+  "license": "MIT Licence",
+  "description": "ET Currency Magento 1 Module",
+  "authors": [
+    {
+      "name": "Vlad Kozak",
+      "email": "vk@stagem.com.ua"
+    }
+  ],
+  "extra": {
+    "map": [
+      ["app/etc/modules/ET_CurrencyManager.xml", "app/etc/modules/ET_CurrencyManager.xml"],
+      ["app/code/community/ET/CurrencyManager", "app/code/community/ET/CurrencyManager"],
+      ["app/design/frontend/base/default/layout/et_currencymanager.xml", "app/design/frontend/base/default/layout/et_currencymanager.xml"],
+      ["app/design/frontend/base/default/template/et_currencymanager", "app/design/frontend/base/default/template/et_currencymanager"],
+      ["js/et/currencymanager/et_currencymanager_round.js", "js/et/currencymanager/et_currencymanager_round.js"],
+      ["skin/frontend/base/default/css/tm/easytabs.css", "skin/frontend/base/default/css/tm/easytabs.css"],
+      ["app/locale/uk_UA/ET_Currencymanager.csv", "app/locale/uk_UA/ET_Currencymanager.csv"],
+      ["app/locale/ru_RU/ET_Currencymanager.csv", "app/locale/ru_RU/ET_Currencymanager.csv"],
+      ["app/locale/en_US/ET_Currencymanager.csv", "app/locale/en_US/ET_Currencymanager.csv"]
+    ]
+  }
+}
