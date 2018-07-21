@@ -12,9 +12,9 @@
   "extra": {
     "map": [
       ["app/etc/modules/ET_CurrencyManager.xml", "app/etc/modules/ET_CurrencyManager.xml"],
-      ["app/code/community/ET/CurrencyManager", "app/code/community/ET/CurrencyManager"],
+      ["app/code/community/ET/CurrencyManager/", "app/code/community/ET/CurrencyManager"],
       ["app/design/frontend/base/default/layout/et_currencymanager.xml", "app/design/frontend/base/default/layout/et_currencymanager.xml"],
-      ["app/design/frontend/base/default/template/et_currencymanager", "app/design/frontend/base/default/template/et_currencymanager"],
+      ["app/design/frontend/base/default/template/et_currencymanager/", "app/design/frontend/base/default/template/et_currencymanager"],
       ["js/et/currencymanager/et_currencymanager_round.js", "js/et/currencymanager/et_currencymanager_round.js"],
       ["app/locale/uk_UA/ET_Currencymanager.csv", "app/locale/uk_UA/ET_Currencymanager.csv"],
       ["app/locale/ru_RU/ET_Currencymanager.csv", "app/locale/ru_RU/ET_Currencymanager.csv"],
